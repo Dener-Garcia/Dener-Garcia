@@ -19,3 +19,7 @@ You can click the Preview link to take a look at your changes.
    * 🗄️ [Linkedin](https://www.linkedin.com/in/denergarcia/);
    * 📷 [Insta](https://www.instagram.com/m3dener/);
    * 📺 [Youtube](https://www.youtube.com/channel/UCTt8-o-ya6n25WtuYTj0hBw);
+   
+  https://github-readme-stats.vercel.app/api?username=Dener-Garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
+  
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Garcia&layout=compact&langs_count=7&theme=dracula
