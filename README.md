@@ -1,28 +1,27 @@
-<!---
-- 👋 Hi, I’m @Dener-Garcia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Oi, Dener Garcia aqui 🧑🏻‍💻 
+  Minha história começou na indústria onde desenvolvi vários projetos para IHM (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado.
+  Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários.
+  
+## 📚 Estar em constante evolução 
+ Busco melhorar a cada dia meus projetos através de cursos, mentorias e principalmente criando projetos profissionais ou pessoais.
+Veja minhas stacks:
 
-
-Dener-Garcia/Dener-Garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 🤠 Oi, meu nome é Dener Garcia 
-  Trabalho atualmente na indústria com foco em automação e na resolução, análise e melhoria continua de processos e máquinas.
-## 📙 Estou estudando UI/UX Design 
-  Para aplicar nos meus projetos de interfaces e projetos web.
-## 📤 Compartilhar conhecimento
-  Alguns dos projetos eu compartilho aqui no Github e aprendo varios outros, mas você pode entrar em contato comigo tambem!
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
+</div>
+ 
+## 🫴 Compartilhar conhecimento
+  Ensinar é a melhor forma de aprender, enquanto caminho na minha jornada também compartilho conhecimento através do meu canal do Youtube, artigos no meu blog e nas redes sociais.
 ## 🕸️ Me encontre nas redes
    * 🗄️ [Linkedin](https://www.linkedin.com/in/denergarcia/);
-   * 📷 [Insta](https://www.instagram.com/m3dener/);
+   * 📷 [Insta](https://www.instagram.com/dener.criarbr/);
    * 📺 [Youtube](https://www.youtube.com/channel/UCTt8-o-ya6n25WtuYTj0hBw);
-  
-  <div align="center">
-  <a href="https://github.com/Dener-Garcia">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=dener-garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Garcia&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dener-garcia&show_icons=true&theme=transparent)
