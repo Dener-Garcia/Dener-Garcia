@@ -1,13 +1,13 @@
 # Oi, Dener Garcia aqui 🧑🏻‍💻 
 Minha história começou na indústria onde desenvolvi vários projetos para IHMs`s (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado como Javascript e React.
-Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos receursos.
+Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos recursos.
 
 
   
 ## 📚 Estar em constante evolução 
 Busco melhorar a cada dia meus projetos através de cursos, mentorias e principalmente criando projetos profissionais ou pessoais.
 Meu foco em estudos se concentram em UX/UI e Front-end.
-Atualmente minhas stacks são
+Atualmente minhas stacks são:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80px" />
@@ -30,5 +30,4 @@ Atualmente minhas stacks são
    * 📺 [Youtube](https://www.youtube.com/channel/UCTt8-o-ya6n25WtuYTj0hBw);
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dener-garcia&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dener-garcia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dener-garcia&layout=compact&theme=transparent)
