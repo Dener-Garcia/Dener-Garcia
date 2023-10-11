@@ -1,3 +1,6 @@
+
+![cover-github](https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/85f9511d-d02d-4f32-93a7-a8e96a5c05ff)
+
 # Oi, Dener Garcia aqui 🧑🏻‍💻 
 Minha história começou na indústria onde desenvolvi vários projetos para IHMs`s (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado como Javascript e React.
 Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos recursos.
