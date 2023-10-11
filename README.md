@@ -1,5 +1,4 @@
-
-![cover-github](https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/85f9511d-d02d-4f32-93a7-a8e96a5c05ff)
+<img align="center" height="250" width="100%" alt="banner" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/fea00e0f-a3ac-46c2-85fb-c2407e6ba558" /> 
 
 # Oi, Dener Garcia aqui 🧑🏻‍💻 
 Minha história começou na indústria onde desenvolvi vários projetos para IHMs`s (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado como Javascript e React.
