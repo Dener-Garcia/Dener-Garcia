@@ -5,9 +5,10 @@
 Minha história começou na indústria onde desenvolvi vários projetos para IHMs`s (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado como Javascript e React.
 Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos recursos.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/f9e89e22-4404-428d-8b14-92eb1cb3dee5" /> 
   
-## 📚 Estar em constante evolução 
+## 📚 Estar em constante evolução
+
 Busco melhorar a cada dia meus projetos através de cursos, mentorias e principalmente criando projetos profissionais ou pessoais.
 Meu foco em estudos se concentram em UX/UI e Front-end.
 Atualmente minhas stacks são:
