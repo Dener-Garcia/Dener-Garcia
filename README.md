@@ -28,11 +28,13 @@ Atualmente minhas stacks são:
   
 ## 🕸️ Me encontre nas redes  
 <div> 
+  <a href="https://www.dener.criarbr.com" target="_blank"><img src="https://img.shields.io/badge/dependencies-out%20of%20date-orang" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denergarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/@dener.criarbr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dener.criarbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dener.criarbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dener-garcia&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dener-garcia&layout=compact&theme=transparent)
+</div>
