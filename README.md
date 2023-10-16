@@ -35,6 +35,8 @@ Atualmente minhas stacks são:
   <a href = "mailto:dener.criarbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dener-garcia&show_icons=true&theme=transparent)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dener-garcia&layout=compact&theme=transparent)
 </div>
