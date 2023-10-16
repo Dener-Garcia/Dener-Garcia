@@ -36,7 +36,7 @@ Atualmente minhas stacks são:
 </div>
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dener-garcia&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dener-Garcia&show_icons=true&theme=transparent)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dener-garcia&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Garcia&layout=compact&theme=transparent)
 </div>
