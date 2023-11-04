@@ -38,9 +38,13 @@ Atualmente minhas stacks são:
 ## 🕸️ Me encontre nas redes  
 <div> 
   <a href="https://www.dener.criarbr.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-e0eef9?style=for-the-badge" target="_blank"></a> 
+  <img width="16" />
   <a href="https://www.linkedin.com/in/denergarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img width="16" />
   <a href="https://www.youtube.com/@dener.criarbr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <img width="16" />
   <a href="https://instagram.com/dener.criarbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img width="16" />
   <a href = "mailto:dener.criarbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div>
