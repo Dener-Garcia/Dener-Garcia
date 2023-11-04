@@ -5,6 +5,8 @@ Minha história começou na indústria onde desenvolvi vários projetos para IHM
 Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos recursos.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/f9e89e22-4404-428d-8b14-92eb1cb3dee5" /> 
+
+<div align="right" style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Xgg0PkTao7Yy8HOElW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coffee-drink-freelancer-Xgg0PkTao7Yy8HOElW">via GIPHY</a></p>
   
 ## 📚 Estar em constante evolução
 
