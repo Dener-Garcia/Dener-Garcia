@@ -4,15 +4,15 @@
 Minha história começou na indústria onde desenvolvi vários projetos para IHMs`s (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado como Javascript e React.
 Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos recursos.
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/f9e89e22-4404-428d-8b14-92eb1cb3dee5" /> 
+<img align="right" height="auto" width="375" alt="" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/fdf7b544-ee81-47d4-bf8a-b9552417ea71" /> 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Xgg0PkTao7Yy8HOElW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coffee-drink-freelancer-Xgg0PkTao7Yy8HOElW">via GIPHY</a></p>
   
 ## 📚 Estar em constante evolução
 
 Busco melhorar a cada dia meus projetos através de cursos, mentorias e principalmente criando projetos profissionais ou pessoais.
 Meu foco em estudos se concentram em UX/UI e Front-end.
 Atualmente minhas stacks são:
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80px" alt="html" />
