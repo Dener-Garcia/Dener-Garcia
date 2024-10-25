@@ -1,8 +1,11 @@
 <img align="center" height="auto" width="100%" alt="banner" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/fea00e0f-a3ac-46c2-85fb-c2407e6ba558" /> 
 
 # Oi, Dener Garcia aqui 🧑🏻‍💻 
-Minha história começou na indústria onde desenvolvi vários projetos para IHMs`s (interface homem máquina) apartir dai me interessei por melhorar e sofisticar o design das minhas telas aplicando conceitos de UX/UI e não parei mais, hoje me especializei em desenvolvimento web utilizando as principais stacks do mercado como Javascript e React.
-Meu objetivo é criar aplicações que prezam por um design minimalista, eficiente, intuitivo e principalmente com acessibilidade para todos os usuários terem acesso aos mesmos recursos.
+Comecei desenvolvendo interfaces para a indústria com foco em IHM's (interface homem máquina) e hoje sigo criando soluções de pequeno ou grande porte com foco em estratégia, pessoas e tecnologia alavancando resultados através do design.
+   
+Entrego todas as etapas de um produto partindo da descoberta com stakeholders, handoff para os desenvolvedores até testes de usabilidade. Participei de vários projetos de diferentes nichos que vão desde sites institucionais, aplicativos mobile, plataformas web até a criação de design system.
+
+Motivado a entregar produtos escaláveis ​​que melhoram a experiência das pessoas.
 
 <img align="right" height="auto" width="375" alt="" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/fdf7b544-ee81-47d4-bf8a-b9552417ea71" /> 
 
@@ -12,7 +15,6 @@ Meu objetivo é criar aplicações que prezam por um design minimalista, eficien
 Busco melhorar a cada dia meus projetos através de cursos, mentorias e principalmente criando projetos profissionais ou pessoais.
 Meu foco em estudos se concentram em UX/UI e Front-end.
 Atualmente minhas stacks são:
-
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80px" alt="html" />
